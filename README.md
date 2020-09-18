@@ -58,7 +58,7 @@ Following:
 I like pipenv vs 
 
 I had to install `pip` manually.
-[]()
+[Installation](https://pip.pypa.io/en/stable/installing/)
 `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
 then
 `python3 get-pip.py`
