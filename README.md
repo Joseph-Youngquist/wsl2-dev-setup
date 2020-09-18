@@ -15,7 +15,12 @@ Once download is complete opt to run it so you can make your first user account 
 
 [WSL2: Making Windows 10 the perfect dev machine!](https://partlycloudy.blog/2020/06/05/wsl2-making-windows-10-the-perfect-dev-machine/)
 
-#### for Oh My zsh
+#### For git
+Make sure to setup git user and email
+`git config --global user.name "Your Name"`
+`git config --global user.email "youremail@yourdomain.com"`
+
+#### For Oh My zsh
 I like to update my `~/.zshrc` file with the following updates
 `export PATH=$HOME/bin:/usr/local/bin:$HOME/.local/bin:$PATH`
 `ZSH_THEME="muse"`
