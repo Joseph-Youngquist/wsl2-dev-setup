@@ -69,3 +69,10 @@ then
 
 then finally:
 `pipx install pipenv`
+
+### Homebrew (yep, for linux!)
+Visit the [Homebrew](https://brew.sh/) website to get started...it's easy!
+
+Install build tools if you haven't already, also Brew will let you know what steps you need to do to complete the install process.
+
+`sudo apt-get install build-essential`
